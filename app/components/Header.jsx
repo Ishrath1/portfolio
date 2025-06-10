@@ -65,7 +65,7 @@ function Header() {
             duration: 0.6,
             delay: 1,
           }}
-          href="/sample-resume.pdf"
+          href="/CV.pdf"
           download
           className="px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 font-sintony
           dark:text-darkHover dark:bg-lightTheme"
